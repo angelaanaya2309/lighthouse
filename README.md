@@ -2,7 +2,7 @@
 
 Pruebas auditorias Lighthouse taller #3 y evidencias
 
-Instalar las siguientes dependencias, al nivel de la raíz del proyecto en su terminal, ejecute los siguientes comandos: 
+1. Descargar carpeta proyecto_lighthouse e instalar las siguientes dependencias, al nivel de la raíz del proyecto en su terminal, ejecute los siguientes comandos: 
 
 $ npm install
 $ npm install -g lighthouse
@@ -17,3 +17,5 @@ para ejecutar las pruebas
 $ lighthouse --config-path=custom-config.js https://miso-4208-labs-ratp-pwa-6.glitch.me/
 
 Se crea un archivo localhost_<timestamp>.report.dom.html en el directorio de la prueba. Al final se deberá ver la categoría creada con el resultado.
+
+2.En la carpeta evidencias se puede archivo de auditorias ejecutadas.
