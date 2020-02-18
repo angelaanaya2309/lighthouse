@@ -1,4 +1,4 @@
-# lighthouse
+# Lighthouse
 
 Pruebas auditorias Lighthouse taller #3 y evidencias
 
